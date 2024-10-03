@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "31c7",
+      "title": "Web Developers ( Frontend + Backend )",
+      "type": "Full-Time",
+      "location": "Gurugram, Haryana",
+      "description": "We are seeking for Software Developers who are freshers and know everything about web development and have a good understanding of problem solving.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Growth Jockey",
+        "description": "GrowthJockey is a leading venture architect and marketing solutions provider at the forefront\nof innovation, with specialisations in AI, machine learning, and digital advertising. Our team\nof experienced engineers, marketers, and experts deliver dynamic solutions that drive\nmeasurable results for businesses of all sizes. We have built our own proprietary AI\ntechnology such as intellsys.ai and prediqs.ai. With expertise in incubating ventures, we've\nsuccessfully incubated and launched over 25+ ventures for Fortune 500 companies,\ndemonstrating our commitment to driving technological evolution and fostering industry\nleaders. Our dedication to staying ahead of the curve ensures that we provide our clients\nwith nothing but the best in terms of technology and services.\n🌟📈💡",
+        "contactEmail": "hr@growthjockey.com",
+        "contactPhone": ""
+      }
     }
   ]
 }
